@@ -6,3 +6,5 @@ excerpt: This is my
 
 ---
 # This is post
+
+This one is added now. 
