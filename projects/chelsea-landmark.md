@@ -15,4 +15,4 @@ The **banana** fruits grow from a **banana** blossom in hanging clusters, al
 
 <iframe width="270" height="480" style="max-width: 270px; max-height: 480px;" frameborder="0" src="https://play.snapchat.com/gulabiqueen?upnext=1&loop=true"></iframe>
 
-<iframe width="270" height="480" style="max-width: 270px; max-height: 480px;" frameborder="0" src="https://play.snapchat.com/s:JJpXpKKASKauB4KM-LXI1w?upnext=1&loop=true"></iframe>
+![](/uploads/mike-dorner-173502-unsplash.jpg)
