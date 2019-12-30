@@ -7,7 +7,7 @@ thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
 categories:
 - photography
 - pink
-project_bg_color: ''
+project_bg_color: "#F8E71C"
 project_fg_color: ''
 
 ---
