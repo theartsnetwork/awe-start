@@ -1,5 +1,5 @@
 ---
-label: Services
+label: Journal
 hide_body: false
 fields:
 - type: text
@@ -13,6 +13,20 @@ fields:
   description: Short snippet that will show outside of the actual post
   config:
     required: true
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
 pages:
 - journal/macos-development-environment.md
 - journal/this-is-my-title.md
