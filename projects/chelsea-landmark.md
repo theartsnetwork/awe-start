@@ -6,7 +6,7 @@ category: Identity
 thumbnail: "/uploads/Awesome Machine Learning.png"
 categories:
 - Artificial Intelligence
-project_bg_color: "#FFDD00"
+project_bg_color: ''
 project_fg_color: "#452B45"
 
 ---
