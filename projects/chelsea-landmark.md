@@ -20,8 +20,8 @@ Whether it is Facebook or Instagram feed or YouTube’s video feed draw you more
 
 We can help you market your brand with Artificial Intelligence. You must be thinking how A.I. is relevant for your brand?
 
-1\.Awesome can help you integrate some form of machine intelligence into your brand’s value proposition or marketing workflow. (Yes, We are a digital marketing company only and we are not confusing you with the traits of a technology consultancy cause we believe in empowering our clients also.)
+1\.Awesome can help you integrate some form of machine intelligence into your brand’s value proposition or marketing workflow. Yes, We are a technology company at the core hence digital marketing arm serves you better as we believe in empowering our clients with our extended knowledge at no extra cost! 
 
-2\.We are 100% sure because we use A.I. at Awesome day-in-day-out. We can deliver highest ROI basis an integrated workflow using massive machines for image processing/enhancement, colour selection to faster prototyping. In short, we do more i.e. efficiently, in agile manner and in a bold fashion with less (less people, less time and money).
+2\.We are 100% sure because we use A.I. at Awesome day-in-day-out. We can deliver highest ROI basis an integrated workflow using massive machines for image processing, colour selection to faster prototyping. In short, we do more i.e. efficiently, in agile manner and in a bold fashion with less (less people, less time and money).
 
 Yes, this magical technology saves us thousands hence we extend those benefits to your brand and help you save on your Digital Agency bill. Do you want to know how? Just [say hi]()
