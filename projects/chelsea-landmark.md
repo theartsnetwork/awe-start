@@ -3,14 +3,14 @@ date: 2019-05-16
 year: 2019
 title: "Artificial Intelligence\U0001F4AB"
 category: Identity
-thumbnail: "/uploads/Awesome Machine Learning.png"
+thumbnail: "/uploads/Awesome-Machine-Learning.png"
 categories:
 - Artificial Intelligence
 project_bg_color: ''
-project_fg_color: "#452B45"
+project_fg_color: ''
 
 ---
-![](/uploads/Awesome Machine Learning.png)
+![](/uploads/Awesome-Machine-Learning.png)
 
 You are very familiar with Artificial Intelligence, aren’t you? In fact, it is more likely that you have today used it at least once before visiting this Awesome website. When you browse product x on your favourite e-commerce app (btw mine is Amazon!), it shows a list of ‘You may also like’ products. On Snapchat your perfect dog-face selfie looks cute, thanks to A.I. or when you search on large scale search engine (That’s Google), a million things happen behind that search bar and among other things artificial Intelligence makes your search experience intuitively better and faster.
 
