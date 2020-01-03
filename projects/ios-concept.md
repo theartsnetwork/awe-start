@@ -1,12 +1,12 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+thumbnail: "/uploads/negative-space-abstract-shape-pattern-background-4.jpg"
+title: Agorithms
 date: 2019-01-03
 categories:
-- photography
-- yellow
+- Machine Learning
+- Data Science
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+![](/uploads/negative-space-abstract-shape-pattern-background-4.jpg)
