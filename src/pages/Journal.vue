@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          Awesome things...
+          Awesome ❤️ Case-studies...
         </h1>
       </div>
     </div>

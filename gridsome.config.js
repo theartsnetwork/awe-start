@@ -3,9 +3,9 @@
 
 module.exports = {
   siteName: "Awesome",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://awesome.artmarq.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - A.I.",
+  titleTemplate: "%s ❤️ ",
   siteDescription: "Digital marketing technology company",
   plugins: [
     {
