@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/negative-space-abstract-shape-pattern-background-4.jpg"
-title: Agorithms
+title: Algorithms
 date: 2019-01-03
 categories:
 - Machine Learning
