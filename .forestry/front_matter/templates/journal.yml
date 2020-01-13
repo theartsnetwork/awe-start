@@ -28,5 +28,6 @@ fields:
     required: false
   label: Author
 pages:
+- journal/2020.md
 - journal/this-is-my-title.md
 - services/this-is-my-service.md
