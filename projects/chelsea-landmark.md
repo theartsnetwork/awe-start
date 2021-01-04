@@ -27,4 +27,4 @@ We can help you market your brand with Artificial Intelligence. You must be thin
 1. Awesome can help you integrate some form of machine intelligence into your brand’s value proposition or marketing workflow. Yes, We are a technology company at the core hence digital marketing arm serves you better as we believe in empowering our clients with our extended knowledge at no extra cost!
 2. We are 100% sure because we use A.I. at Awesome day-in-day-out. We can deliver highest ROI basis an integrated workflow using massive machines for image processing, colour selection to faster prototyping. In short, we do more i.e. efficiently, in agile manner and in a bold fashion with less (less people, less time and money).
 
-Yes, this magical technology saves us thousands hence we extend those benefits to your brand and help you save on your Digital Agency bill. Do you want to know how? Just [say hi]()
+Yes, this magical technology saves us thousands hence we extend those benefits to your brand and help you save on your Digital Agency bill. Do you want to know how? Just [say hi]() or send us an email business\[at\]artmarq.com.
